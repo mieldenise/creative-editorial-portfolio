@@ -49,12 +49,7 @@ creative-editorial-portfolio/
 ├── css/
 │   └── style.css
 │
-├── js/
-│   └── main.js
-│
-├── images/
-│
-└── assets/
+└── img/
 ```
 
 ## Featured Project
