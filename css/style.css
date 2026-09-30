@@ -66,9 +66,7 @@
 }
 
 
-/* =========================================================
-   RESET & BASE STYLES
-========================================================= */
+/* RESET & BASE STYLES */
 
 *,
 *::before,
@@ -128,9 +126,7 @@ p {
 }
 
 
-/* =========================================================
-   TYPOGRAPHY
-========================================================= */
+/* TYPOGRAPHY */
 
 h1,
 h2,
@@ -173,9 +169,7 @@ p {
 }
 
 
-/* =========================================================
-  DITOOOOOOOOO CONTAINER & LAYOUT
-========================================================= */
+/* CONTAINER & LAYOUT */
 
 .container {
   width: min(
@@ -187,9 +181,7 @@ p {
 }
 
 
-/* =========================================================
-   HEADER / NAVIGATION HERE
-========================================================= */
+/* HEADER / NAVIGATION HERE */
 
 .site-header {
   width: 100%;
@@ -375,9 +367,7 @@ nav {
 }
 
 
-/* =========================================================
-   SHARED COMPONENTS HERREEEEE
-========================================================= */
+/* SHARED COMPONENTS HERREEEEE */
 
 /* Section Labels */
 
@@ -463,9 +453,7 @@ textarea:focus-visible {
 }
 
 
-/* =========================================================
-   HOME PAGE NEOWWWWWWWWW
-========================================================= */
+/* HOME PAGE NEOWWWWWWWWW */
 
 
 /* Hero Section */
@@ -611,9 +599,7 @@ textarea:focus-visible {
 }
 
 
-/* =========================================================
-   ABOUT PAGEEEEEEEEEEE
-========================================================= */
+/* ABOUT PAGEEEEEEEEEEE */
 
 main.container {
   padding-top: 48px;
@@ -810,9 +796,7 @@ main.container {
 }
 
 
-/* =========================================================
-   PROJECTS PAGEEEEEEEEEEEEE
-========================================================= */
+/* PROJECTS PAGEEEEEEEEEEEEE */
 
 .projects-header {
   padding-top: 8px;
@@ -1001,9 +985,7 @@ main.container {
 }
 
 
-/* =========================================================
-   CASE STUDY PAGEEEEEEEEEEE
-========================================================= */
+/* CASE STUDY PAGEEEEEEEEEEE */
 
 .case-study-header {
   padding-top: 8px;
@@ -1219,9 +1201,7 @@ main.container {
 }
 
 
-/* =========================================================
-   CONTACT PAGEEEEEEEEEE
-========================================================= */
+/* CONTACT PAGEEEEEEEEEE */
 
 .contact-section {
   padding: 8px 0 48px;
@@ -1397,9 +1377,7 @@ main.container {
 }
 
 
-/* =========================================================
-   FOOTERRRRRRR DITO
-========================================================= */
+/* FOOTERRRRRRR DITO */
 
 .site-footer {
   width: 100%;
@@ -1490,9 +1468,7 @@ main.container {
 }
 
 
-/* =========================================================
-   DESKTOP RESPONSIVEEEEEEE
-========================================================= */
+/* DESKTOP RESPONSIVEEEEEEE */
 
 @media (max-width: 1199px) {
 
@@ -1523,9 +1499,7 @@ main.container {
 }
 
 
-/* =========================================================
-   TABLET Approximately 768px!!!!
-========================================================= */
+/* TABLET Approximately 768px!!!! */
 
 @media (max-width: 900px) {
 
@@ -1733,9 +1707,7 @@ main.container {
 }
 
 
-/* =========================================================
-   MOBILE NAVIGATION 390px / 360px !!!!
-========================================================= */
+/* MOBILE NAVIGATION 390px / 360px !!!! */
 
 @media (max-width: 767px) {
 
@@ -2385,9 +2357,7 @@ main.container {
 }
 
 
-/* =========================================================
-   SMALL MOBILE 360px !!!!
-========================================================= */
+/* SMALL MOBILE 360px !!!! */
 
 @media (max-width: 380px) {
 
@@ -2437,9 +2407,7 @@ main.container {
 
 }
 
-/* =========================================================
-  ACCESSIBILITY / REDUCED MOTIONNNNNNNNNN
-========================================================= */
+/*  ACCESSIBILITY / REDUCED MOTIONNNNNNNNNN */
 
 @media (prefers-reduced-motion: reduce) {
 
